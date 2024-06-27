@@ -236,3 +236,21 @@ main{
 .product-price span{
     font-weight: 600;
 }
+
+/*footer*/
+.footer-content{
+    display: flex;
+    align-items: center;
+    color: #8f8f8f;
+    padding: 4rem 1rem;
+}
+
+.logo-footer{
+    text-align: center;
+}
+
+.copyright{
+    color: #fff;
+    padding: 2rem 0;
+    text-align: center;
+}
